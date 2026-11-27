@@ -6,6 +6,7 @@ Java solutions with explanations, complexity analysis and reproducible local tes
 |---|---|---|---|---|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack / String | [Solution and tests](Stack/0020_Valid_Parentheses/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array / Hash Set | [Solution and tests](HashSet/0217_Contains_Duplicate/) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array / Binary Search | [Solution and tests](BinarySearch/0704_Binary_Search/) |
 
 ## Run locally
 
